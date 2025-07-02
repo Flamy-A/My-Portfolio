@@ -5,7 +5,7 @@ const CVPage = () => (
         <h1 className="text-3xl font-bold mb-6 gradient-text">My CV</h1>
         <div className="w-full max-w-4xl h-[80vh] bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200">
             <iframe
-                src="/assests/cv/AmioRashid__CV.pdf"
+                src="/assests/cv/Amio_Rashid_CV.pdf"
                 title="Amio Rashid CV"
                 width="100%"
                 height="100%"
