@@ -54,7 +54,7 @@ const Hero = () => {
                         <div className="relative group">
                             <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 via-blue-600 to-indigo-600 rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200 animate-pulse-slow"></div>
                             <Image
-                                src="/assests/picture/Amio_2nd.png"
+                                src="/assests/picture/amio.png"
                                 alt="hero"
                                 width={480}
                                 height={400}
