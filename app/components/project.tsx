@@ -161,6 +161,43 @@ const Project = () => {
                                 </div>
                             </div>
                         </div>
+
+                        {/* Another project card (SkillShare) */}
+                        <div className="lg:w-1/3 sm:w-1/2 p-4 animate-fade-in-up">
+                            <div className="flex relative group">
+                                <Image
+                                    alt="SkillShare project screenshot"
+                                    className="absolute inset-0 w-full h-full object-cover object-center rounded-lg shadow-lg group-hover:scale-105 transition-transform duration-500"
+                                    src="/assests/picture/applogo.png"
+                                    width={400}
+                                    height={300}
+                                />
+                                <div className="px-4 py-6 relative z-10 w-full border-4 border-transparent bg-gradient-to-br from-white/95 to-white/90 backdrop-blur-sm opacity-0 group-hover:opacity-100 cursor-pointer rounded-lg shadow-2xl transition-all duration-500 hover-lift min-h-[320px]">
+                                    <h2 className="tracking-widest text-sm title-font font-bold bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent mb-1">
+                                        Android App Development
+                                    </h2>
+                                    <h1 className="title-font text-lg font-bold text-gray-900 mb-3">
+                                        SkillShare App
+                                    </h1>
+                                    <p className="leading-relaxed text-gray-700">
+                                        The SkillShare project is a platform designed to connect individuals seeking to share or acquire skills. Users can create profiles, list the skills they offer or want to learn, and interact with others. The platform fosters a community of knowledge-sharing and skill development, integrating features like user authentication, profile management, and skill listings for smooth, intuitive interactions.
+                                    </p>
+                                    <div className="flex items-center mt-3 gap-6">
+                                        <Link
+                                            target="_blank"
+                                            href="https://github.com/Walid2851/skillShare"
+                                        >
+                                            <span className="text-transparent bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text inline-flex items-center font-semibold hover:from-purple-600 hover:to-blue-600 transition-all duration-300 group/link">
+                                                View Project&nbsp;
+                                                <svg className="w-4 h-4 ml-1 group-hover/link:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                                                </svg>
+                                            </span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section >

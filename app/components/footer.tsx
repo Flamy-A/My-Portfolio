@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { FaInstagram, FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import Image from 'next/image';
 
 const Footer = () => {
@@ -30,7 +30,7 @@ const Footer = () => {
                         </a>
                     </p>
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                        <Link
+                        {/* <Link
                             target="_blank"
                             href="https://www.facebook.com/amio.rashid"
                             className="text-blue-500"
@@ -44,7 +44,7 @@ const Footer = () => {
                             className="ml-4"
                         >
                             <FaInstagram className="text-2xl hover:text-pink-500" color="#E4405F" />
-                        </Link>
+                        </Link> */}
 
                         <Link
                             target="_blank"

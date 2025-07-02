@@ -4,12 +4,12 @@ const awards = [
     {
         title: "UAP Cyber Siege 2025",
         placement: "10th Place",
-        team: "Team_Cookies"
+        team: null
     },
     {
         title: "DUCTF 2024",
         placement: "4th Place",
-        team: "Team_KukiChin"
+        team: null
     },
     {
         title: "DU CTF 2023",

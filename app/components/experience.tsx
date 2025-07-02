@@ -14,16 +14,25 @@ const experienceData = [
         logo: "/assests/picture/code_samurai.png",
         title: "Code Samurai BD",
         org: "Volunteer",
-        dates: "May 2024",
+        dates: "May 2024, December 2022",
         description: null,
         skills: []
     },
 
     {
-        logo: "/assests/picture/code_samurai.png",
-        title: "Code Samurai BD",
-        org: "Volunteer",
-        dates: "December 2022",
+        logo: "/assests/picture/csedusc.jpg",
+        title: "CSEDU Students' Club",
+        org: "Executive Member",
+        dates: "January 2024 - Present",
+        description: null,
+        skills: []
+    },
+
+    {
+        logo: "/assests/picture/ndec.jpg",
+        title: "Notre Dame English Club",
+        org: "Vice President, Accounts & Finance",
+        dates: "January 2020 - January 2022",
         description: null,
         skills: []
     },

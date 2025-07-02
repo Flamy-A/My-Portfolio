@@ -78,7 +78,7 @@ export default function RootLayout({
             <div className="inline-flex items-center"></div>
             <button className="inline-flex items-center bg-gradient-to-r from-purple-600 via-blue-600 to-indigo-600 hover:from-indigo-600 hover:via-blue-600 hover:to-purple-600 border-0 py-2 px-4 focus:outline-none rounded-full text-white font-medium shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 mt-4 md:mt-0 group">
               <a
-                href="/assests/cv/Amio_resume.pdf"
+                href="/assests/cv/AmioRashid__CV.pdf"
                 download
                 className="flex items-center"
               >

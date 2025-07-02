@@ -32,7 +32,7 @@ const About = () => {
                                 <h3 className="font-bold text-lg mb-1 text-blue-900 flex items-center">
                                     Python AI Trainer <span className="mx-2 text-xs text-gray-500">@ SuperAnnotate</span>
                                 </h3>
-                                <div className="text-sm text-gray-700 mb-1">December 2023 - Present · 1year 8 mos · Remote</div>
+                                <div className="text-sm text-gray-700 mb-1">October 2024 - Present · 9 mos · Remote</div>
                                 <div className="text-gray-800">
                                     I work as a Python AI Trainer, building, training, and refining machine learning and AI models in Python, focusing on enhancing algorithms and optimizing model performance.
                                 </div>
